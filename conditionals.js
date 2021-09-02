@@ -1,5 +1,5 @@
 const raining = true;
-const cold = false;
+//const cold = false;
 const temperature = 12;
 
 if (raining) {
